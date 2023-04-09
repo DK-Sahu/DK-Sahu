@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak kumar sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumar sahu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-kumar-sahu-952b1120a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumar sahu" height="30" width="40" /></a>
 <a href="https://kaggle.com/deepak kumar sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepak kumar sahu" height="30" width="40" /></a>
 <a href="https://medium.com/@skdeepak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skdeepak2000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/skdeepak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skdeepak2000" height="30" width="40" /></a>
